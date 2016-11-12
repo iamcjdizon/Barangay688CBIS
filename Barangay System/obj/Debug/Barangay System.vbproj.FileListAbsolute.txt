@@ -1,0 +1,944 @@
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+c:\users\owner\documents\visual studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\owner\Dropbox\DFO-PSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\Hyacinth\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\RoadToPSAD\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\owner\Desktop\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\owner\Dropbox\DFO-PSAD\Protoype-Draft\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\owner\Desktop\syste,\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\nicko draft proto\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\DFO\RoadToPSADsystem\eto na tlga yung prototype\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\DFOsystemWithComments\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\CJ\Desktop\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\CJ\Desktop\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\CJ\Desktop\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Dropbox\DFO-PSAD\DFO System\DFOsystemWithComments\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\owner\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\owner\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\owner\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\owner\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\owner\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\CJ\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\CJ\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\CJ\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\CJ\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\CJ\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\CJ\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Dropbox\DFO-PSAD\psad sratch folder\Scratch barangay System\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.budget.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.GAD_Fund.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay_System.Youth_and_Development_Fund.resources
+C:\Users\nicko\Desktop\psad System\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.budget.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.Create.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.GAD_Fund.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay_System.Youth_and_Development_Fund.resources
+C:\Users\nicko\Desktop\psad System\scratch2\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\Barangay System\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\Barangay System\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\PSAD\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\PSAD\psad System\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\PSAD\psad System\Barangay SystemNicko\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\PSAD\psad System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\PSAD\psad System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\PSAD\psad System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\PSAD\psad System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Dropbox\DFO-PSAD\PSAD System\Barangay SystemNicko\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Dropbox\DFO-PSAD\PSAD System\Barangay SystemNicko\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Dropbox\DFO-PSAD\PSAD System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Dropbox\DFO-PSAD\PSAD System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Dropbox\DFO-PSAD\PSAD System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Dropbox\DFO-PSAD\PSAD System\Barangay SystemNicko\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\Barangay SystemNicko2\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\dell pc\Desktop\Barangay SystemNicko3\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\nicko\Desktop\BrgySystemDonnel\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystemDonnel2\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.brgyformpreview.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.businessformpreview.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\BrgySystem Donnel2\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.brgyformpreview.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.businessformpreview.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem Donnel3\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.brgyformpreview.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessformpreview.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\dell pc\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.brgyformpreview.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.businessformpreview.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Form2.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\FlashControlV71.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\bin\Debug\stdole.dll
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.budget.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.budgetAdd.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.budgetformpreview.resources
+C:\Users\CJ\Desktop\BrgySystem DonnelFinalSystem\Barangay System\obj\Debug\Barangay_System.Estimated_Income.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\FlashControlV71.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\bin\Debug\stdole.dll
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.brgyformpreview.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budget.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetAdd.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessformpreview.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Estimated_Income.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Form2.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.complaintForm.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.violenceForm.resources
+C:\Users\nicko\Desktop\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetReport.resources
+E:\niko\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe.config
+E:\niko\BrgySystem Final\Barangay System\obj\Debug\Interop.ADODB.dll
+E:\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+E:\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.exe
+E:\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.xml
+E:\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.brgyformpreview.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Budget.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetAdd.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetform.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetReport.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessformpreview.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.complaintForm.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Estimated_Income.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Form2.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.violence.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.violenceForm.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.violenceRegister.resources
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\FlashControlV71.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CJ\Desktop\niko\BrgySystem Final\Barangay System\bin\Debug\stdole.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.barangayclearance.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.brgyclearanceform.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.BrgyClearanceRegister.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.brgyformpreview.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Budget.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetAdd.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetform.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.budgetReport.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessclearance.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessClearanceRegister.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessForm.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.businessformpreview.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.complaint.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.complaintForm.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.ComplaintRegister.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Estimated_Income.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Form1.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Form2.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.home.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Resources.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.residentform.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.ResidentRegister.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.Residents.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay_System.setting.resources
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\Barangay System.pdb
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\FlashControlV71.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CJ\Desktop\Blah\BrgySystem Final\Barangay System\bin\Debug\stdole.dll
+C:\Users\CJ\Desktop\Blah Backup\BrgySystem Final\Barangay System\bin\Debug\Barangay System.exe.config
+C:\Users\CJ\Desktop\Blah Backup\BrgySystem Final\Barangay System\obj\Debug\Interop.ADODB.dll
+C:\Users\CJ\Desktop\Blah Backup\BrgySystem Final\Barangay System\obj\Debug\Barangay System.vbproj.ResolveComReference.cache
+C:\Users\CJ\Desktop\Blah Backup\BrgySystem Final\Barangay System\obj\Debug\Barangay System.exe
+C:\Users\CJ\Desktop\Blah Backup\BrgySystem Final\Barangay System\obj\Debug\Barangay System.xml
+C:\Users\CJ\Desktop\Blah Backup\BrgySystem Final\Barangay System\obj\Debug\Barangay System.pdb

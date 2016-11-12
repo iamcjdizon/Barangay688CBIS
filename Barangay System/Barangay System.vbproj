@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1BDBA60E-E46F-4A42-ADAE-384283960981}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Barangay_System.My.MyApplication</StartupObject>
+    <RootNamespace>Barangay_System</RootNamespace>
+    <AssemblyName>Barangay System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Barangay System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Barangay System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Barangay688DBDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Barangay688DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="barangayclearance.Designer.vb">
+      <DependentUpon>barangayclearance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="barangayclearance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarangayDBDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BarangayDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BarangayDBDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BarangayDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="brgyclearanceform.Designer.vb">
+      <DependentUpon>brgyclearanceform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="brgyclearanceform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrgyClearanceRegister.Designer.vb">
+      <DependentUpon>BrgyClearanceRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BrgyClearanceRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="brgyformpreview.designer.vb">
+      <DependentUpon>brgyformpreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="brgyformpreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="budget.Designer.vb">
+      <DependentUpon>budget.vb</DependentUpon>
+    </Compile>
+    <Compile Include="budget.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="budgetAdd.Designer.vb">
+      <DependentUpon>budgetAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="budgetAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="budgetform.designer.vb">
+      <DependentUpon>budgetform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="budgetform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="budgetReport.designer.vb">
+      <DependentUpon>budgetReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="budgetReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="businessclearance.Designer.vb">
+      <DependentUpon>businessclearance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="businessclearance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="businessClearanceRegister.Designer.vb">
+      <DependentUpon>businessClearanceRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="businessClearanceRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="businessForm.Designer.vb">
+      <DependentUpon>businessForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="businessForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="businessformpreview.Designer.vb">
+      <DependentUpon>businessformpreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="businessformpreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="complaint.Designer.vb">
+      <DependentUpon>complaint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="complaint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="complaintForm.designer.vb">
+      <DependentUpon>complaintForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="complaintForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComplaintRegister.Designer.vb">
+      <DependentUpon>ComplaintRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ComplaintRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estimated_Income.Designer.vb">
+      <DependentUpon>Estimated_Income.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Estimated_Income.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="reportBarangayClearance.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportBarangayClearance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportBudgetProjects.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportBudgetProjects.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportBusinessClearance.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportBusinessClearance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportComplaint.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportComplaint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportResidents.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportResidents.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="residentform.Designer.vb">
+      <DependentUpon>residentform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="residentform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResidentRegister.Designer.vb">
+      <DependentUpon>ResidentRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ResidentRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Residents.Designer.vb">
+      <DependentUpon>Residents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Residents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting.Designer.vb">
+      <DependentUpon>setting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="barangayclearance.resx">
+      <DependentUpon>barangayclearance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="brgyclearanceform.resx">
+      <DependentUpon>brgyclearanceform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrgyClearanceRegister.resx">
+      <DependentUpon>BrgyClearanceRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="brgyformpreview.resx">
+      <DependentUpon>brgyformpreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="budget.resx">
+      <DependentUpon>budget.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="budgetAdd.resx">
+      <DependentUpon>budgetAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="budgetform.resx">
+      <DependentUpon>budgetform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="budgetReport.resx">
+      <DependentUpon>budgetReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="businessclearance.resx">
+      <DependentUpon>businessclearance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="businessClearanceRegister.resx">
+      <DependentUpon>businessClearanceRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="businessForm.resx">
+      <DependentUpon>businessForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="businessformpreview.resx">
+      <DependentUpon>businessformpreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="complaint.resx">
+      <DependentUpon>complaint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="complaintForm.resx">
+      <DependentUpon>complaintForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComplaintRegister.resx">
+      <DependentUpon>ComplaintRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estimated_Income.resx">
+      <DependentUpon>Estimated_Income.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportBarangayClearance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportBarangayClearance.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportBudgetProjects.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportBudgetProjects.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportBusinessClearance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportBusinessClearance.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportComplaint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportComplaint.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportResidents.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportResidents.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="residentform.resx">
+      <DependentUpon>residentform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResidentRegister.resx">
+      <DependentUpon>ResidentRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Residents.resx">
+      <DependentUpon>Residents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting.resx">
+      <DependentUpon>setting.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Barangay688DBDataSet.xsc">
+      <DependentUpon>Barangay688DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Barangay688DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Barangay688DBDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Barangay688DBDataSet.xss">
+      <DependentUpon>Barangay688DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BarangayDBDataSet.xsc">
+      <DependentUpon>BarangayDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BarangayDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BarangayDBDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BarangayDBDataSet.xss">
+      <DependentUpon>BarangayDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BarangayDBDataSet1.xsc">
+      <DependentUpon>BarangayDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BarangayDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BarangayDBDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BarangayDBDataSet1.xss">
+      <DependentUpon>BarangayDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\batman_by_dustykat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeaLips.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

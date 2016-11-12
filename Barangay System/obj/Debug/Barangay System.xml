@@ -1,0 +1,731 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Barangay System
+</name>
+</assembly>
+<members>
+<member name="T:Barangay_System.Barangay688DBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayBudgetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayBudgetInputDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayCTBLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayOfficialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.businessCTBLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.complaintTBLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.complaintTypeTBLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.loginLoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.loginTBLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.populationtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.vawcTBLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.vawcTypeTBLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayBudgetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayBudgetInputRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayCTBLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayOfficialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.businessCTBLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.complaintTBLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.complaintTypeTBLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.loginLoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.loginTBLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.populationtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.vawcTBLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.vawcTypeTBLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayBudgetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayBudgetInputRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayCTBLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.barangayOfficialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.businessCTBLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.complaintTBLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.complaintTypeTBLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.loginLoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.loginTBLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.populationtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.vawcTBLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSet.vawcTypeTBLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.barangayBudgetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.barangayBudgetInputTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.barangayCTBLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.barangayOfficialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.businessCTBLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.complaintTBLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.complaintTypeTBLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.loginLoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.loginTBLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.populationtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.vawcTBLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.vawcTypeTBLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Barangay_System.Barangay688DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Barangay_System.Barangay688DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Barangay_System.Barangay688DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager.UpdateAll(Barangay_System.Barangay688DBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Barangay_System.Barangay688DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.barangayCtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.businessCtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.businessOwnertblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.complainanttblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.justicetblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.logintblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.populationtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.residentInfotblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.barangayCtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.businessCtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.businessOwnertblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.complainanttblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.justicetblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.logintblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.populationtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.residentInfotblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.barangayCtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.businessCtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.businessOwnertblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.complainanttblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.justicetblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.logintblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.populationtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet.residentInfotblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.barangayCtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.businessCtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.businessOwnertblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.complainanttblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.justicetblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.logintblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.populationtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.residentInfotblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Barangay_System.BarangayDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Barangay_System.BarangayDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Barangay_System.BarangayDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager.UpdateAll(Barangay_System.BarangayDBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.barangayCtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.businessCtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.businessOwnertblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.complainanttblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.justicetblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.logintblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.populationtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.residentInfotblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.barangayCtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.businessCtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.businessOwnertblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.complainanttblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.justicetblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.logintblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.populationtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.residentInfotblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.barangayCtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.businessCtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.businessOwnertblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.complainanttblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.justicetblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.logintblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.populationtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1.residentInfotblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.barangayCtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.businessCtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.businessOwnertblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.complainanttblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.justicetblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.logintblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.populationtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.residentInfotblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Barangay_System.BarangayDBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Barangay_System.BarangayDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Barangay_System.BarangayDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager.UpdateAll(Barangay_System.BarangayDBDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Barangay_System.BarangayDBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Barangay_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Barangay_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Barangay_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Barangay_System.My.Resources.Resources.batman_by_dustykat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Barangay_System.My.Resources.Resources.BeaLips">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
